@@ -89,6 +89,8 @@ Criar uma aplicação que entregue "CRUDs" básicos, apenas API's, para realizar
 #### Observações
 - IMPORTANTE: Entregar o desafio com a documentação dos passos a serem seguidos para executar o projeto localmente
 
+- Você tem total liberdade para estruturar o projeto da forma que achar melhor.
+
 - O Projeto pode ser desenvolvimento em qualquer plataforma: Windows, Linux, MacOs e qualquer Editor/IDE (VsCode, Visual Studio) 
 
 
